@@ -15,3 +15,12 @@ Task performed:
    * Draw the trading as lines between the locations, and make the thickness of lines proportional to the amount.
    * Hovering on a circle, highlight the circle and all lines connected to it (by making other circles and lines transparent).
    * Hovering on a circle, show a tooltip with its information about the total amount of trading and the number of connected locations.
+
+# Application Preview:
+
+* Landing
+
+
+
+
+* On Hover
